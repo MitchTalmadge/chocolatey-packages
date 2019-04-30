@@ -8,6 +8,7 @@
     <authors>NetSetMan GmbH</authors>
     <projectUrl>https://www.netsetman.com</projectUrl>
     <iconUrl>https://www.netsetman.com/img/nsm-logo.png</iconUrl>
+	<packageSourceUrl>https://github.com/3zmana/chocolateypackages/tree/master/NetSetMan/Source</packageSourceUrl>
     <licenseUrl>https://www.netsetman.com/txt/netsetman-licenseagreement-en.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>netsetman nsm</tags>
