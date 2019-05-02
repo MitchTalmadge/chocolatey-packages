@@ -11,7 +11,7 @@
 	<packageSourceUrl>https://github.com/3zmana/chocolateypackages/tree/master/NetSetMan/Source</packageSourceUrl>
     <licenseUrl>https://www.netsetman.com/txt/netsetman-licenseagreement-en.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <tags>netsetman nsm</tags>
+    <tags>netsetman nsm ipv4 ip dns dhcp network</tags>
     <description>Are you tired of manually changing your location-based network
 	and system configuration on your laptop computer every day?
 
