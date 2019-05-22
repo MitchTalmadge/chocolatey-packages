@@ -10,7 +10,7 @@
     <projectUrl>https://yat.qa/</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/yatqa.png</iconUrl>-->
     <docsUrl>https://yat.qa/faq/</docsUrl>
-    <tags>yatqa teamspeak</tags>
+    <tags>yatqa teamspeak admin setting</tags>
     <description>YaTQA is a tool for managing TeamSpeak 3 servers and instances using the query interface. If you don’t want to spend ages learning the query commands and understanding the output, YaTQA is what you need. It comes with support for any feature of the query interface.</description>
     <releaseNotes>https://yat.qa/changelog/</releaseNotes>
   </metadata>
