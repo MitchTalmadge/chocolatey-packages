@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference = 'Stop'; 
-$url        	= 'https://dl.yat.qa/stable/YaTQA-Setup_3.9.7.exe' 
+$url        	= 'https://dl.yat.qa/stable/YaTQA-Setup_3.9.8.exe' 
 $packageName	= 'yatqa'
 
 $packageArgs = @{
@@ -7,7 +7,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'YaTQA*'
-  checksum      = '329F4C1E3528CA07D4646C930B4457122238553C6267E5CCF1026A9FA1EA2ACE'
+  checksum      = 'BBDF48AEC1E376291E76CB9D1AC53E62E1925C1CE7CC2CB0812A30CB49464EEE'
   checksumType  = 'sha256'
   validExitCodes= @(0)
   silentArgs   = '/S'

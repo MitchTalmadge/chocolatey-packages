@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>yatqa</id>
-    <version>3.9.7</version>
+    <version>3.9.8</version>
 	<packageSourceUrl>https://github.com/3zmana/chocolateypackages/tree/master/YaTQA/Source</packageSourceUrl>
     <owners>Ezmana</owners>
     <title>YaTQA</title>
