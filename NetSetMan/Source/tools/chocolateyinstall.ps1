@@ -6,7 +6,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'NetSetMan*'
-  checksum      = 'B20DBE643255CCDA656BA898E0B17AF08D32DE307864F781BB466621F3738EAF'
+  checksum      = '7215DF1465E86E99AC41DF00F15E43ECD5D665F86AE0D90C4A7803CEA0BE30E8'
   checksumType  = 'sha256'
   silentArgs   = '/SILENT'
 }
