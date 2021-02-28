@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>netsetman</id>
-    <version>4.7.2</version>
+    <version>5.0.5</version>
     <owners>Ezmana</owners>
     <title>NetSetMan</title>
     <authors>NetSetMan GmbH</authors>
