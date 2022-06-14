@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>netsetman</id>
-    <version>5.0.6</version>
-    <owners>Ezmana</owners>
+    <version>5.1.1</version>
+    <owners>MitchTalmadge,Ezmana</owners>
     <title>NetSetMan</title>
     <authors>NetSetMan GmbH</authors>
     <projectUrl>https://www.netsetman.com</projectUrl>
-    <iconUrl>https://cdn.statically.io/gh/3zmana/chocolateypackages/master/NetSetMan/Source/icon/nsm-logo.png</iconUrl>
-	<packageSourceUrl>https://github.com/3zmana/chocolateypackages/tree/master/NetSetMan/Source</packageSourceUrl>
+    <iconUrl>https://cdn.statically.io/gh/MitchTalmadge/chocolatey-packages/master/NetSetMan/Source/icon/nsm-logo.png</iconUrl>
+	<packageSourceUrl>https://github.com/MitchTalmadge/chocolatey-packages/tree/master/NetSetMan/Source</packageSourceUrl>
     <licenseUrl>https://www.netsetman.com/txt/netsetman-licenseagreement-en.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>netsetman nsm ipv4 ip dns dhcp network</tags>
