@@ -1,0 +1,1 @@
+choco pack ../Source/netsetman.nuspec

@@ -1,1 +1,1 @@
-choco push netsetman.5.1.1.nupkg --source https://push.chocolatey.org/
+choco push netsetman.5.2.0.nupkg --source https://push.chocolatey.org/
